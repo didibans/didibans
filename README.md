@@ -1,11 +1,10 @@
-👋 I'm Didi, a coder and musician from Costa Rica
+👋 I'm Didi, a coder and musician from Costa Rica.
 
 ✨ I live in Cologne, Germany.
 
+⚡I trained at Le Wagon Coding Bootcamp.
+
 📫 How to reach me: didibansbach@gmail.com
-
-⚡I trained at Le Wagon Coding Bootcamp
-
 
 
 <!--
