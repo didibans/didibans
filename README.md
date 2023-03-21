@@ -4,6 +4,8 @@
 
 📫 How to reach me: didibansbach@gmail.com
 
+⚡I trained at Le Wagon Coding Bootcamp
+
 
 
 <!--
