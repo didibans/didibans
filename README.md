@@ -1,6 +1,6 @@
-I'm Didi, a coder and musician from Costa Rica👋
+👋 I'm Didi, a coder and musician from Costa Rica
 
-I live in Cologne, Germany.
+✨ I live in Cologne, Germany.
 
 📫 How to reach me: didibansbach@gmail.com
 
