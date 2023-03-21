@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm Didi, a coder and musician from Costa Rica👋
+
+I live in Cologne, Germany.
+
+
 
 <!--
 **didibans/didibans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
